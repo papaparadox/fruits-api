@@ -1,3 +1,5 @@
 node_modules
 package-lock.json
 .env
+ssh_key
+ssh_key.pub
